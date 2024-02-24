@@ -34,13 +34,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/srini/OneDrive/Desktop/full_stack/EmployyeManagementSystem/ems-backend"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/srini/OneDrive/Desktop/full_stack/EmployyeManagementSystem/ems-backend&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.com.srinivas.ems.EmsBackendApplication">
     <configuration name="EmsBackendApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="net.javaguides.ems.EmsBackendApplication" />
       <module name="ems-backend" />
@@ -54,8 +54,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.srinivas.ems.EmsBackendApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srinivas.ems.EmsBackendApplication" />
+      <module name="ems-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srinivas.ems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.srinivas.ems.EmsBackendApplication" />
         <item itemvalue="Application.EmsBackendApplication" />
       </list>
     </recent_temporary>
